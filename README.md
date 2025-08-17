@@ -15,5 +15,5 @@ Este projeto em Python solicita ao usuário três palavras — um substantivo, u
 ## ▶️ Como executar
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/<seu-usuario>/madlibs-generator.git
+   git clone https://github.com/The-Darkar/madlibs-generator.git
    cd madlibs-generator
